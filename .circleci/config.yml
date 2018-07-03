@@ -29,7 +29,7 @@ image_config: &image_config
 
   DOCKERIZE: true
 
-  BROWSERS: false
+  BROWSERS: true
 
 version: 2
 jobs:
